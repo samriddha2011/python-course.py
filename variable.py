@@ -1,5 +1,5 @@
 x = 5
-y = "john"staticmethod
+y = "john"
 print(x)
 print(y)
 
